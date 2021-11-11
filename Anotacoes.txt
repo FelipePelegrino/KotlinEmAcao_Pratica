@@ -1,0 +1,24 @@
+Livro:
+	• Kotlin Em Ação
+		• Dmitry Jemerov
+		• Svetlana Isakova
+
+Período:
+	• Início leitura: 11/11/2021
+	• Fim leitura:    ??/??/????
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - Algumas Informações - - -
+
+•Exemplos do livro podem ser acessados em: https://www.manning.com/books/kotlin-in-action
+•Ou executáveis no ambiente online: https://try.kotlinlang.org/
+
+->Comunidade ativa:
+	• Forum:          discuss.kotlinlang.org
+	• Slack:          kotlinlang.slack.com 
+	• Stack Overflow: stackoverflow.com/questions/tagged/kotlin
+	• Reddit:         reddit.com/r/Kotlin
+
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - Capítulo 1 - O que é e por quê - - -
+
