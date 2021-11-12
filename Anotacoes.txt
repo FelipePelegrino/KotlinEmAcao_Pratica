@@ -21,4 +21,53 @@ Período:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - Capítulo 1 - O que é e por quê - - -
+• O principal foco de Kotlin é a interoperabilidade com Java
+• Praticamente tudo em que é usado Java, pode ser usado Kotlin, com os principais pontos sendo o server side e app mobiles.
+• Pode ser usado em:
+	- iOS com Multi-OS Engine
+	- Desktop com TornadoFX e JavaFX
+	- Pode ser compilado para Javascript
+
+-> Caracteristicas:
+	- Estaticamente Tipada (tipos conhecido em tempo de compilação)
+		• Nos garante desempenho, confiabiçodade, manutenabilidade, suporte a ferramentas
+		• Graças a inferencia de tipo, kotlin tem uma menor "verbosidade"
+	
+	- Programação Funcional
+		• Funções de primeira classe - permite que possamos definir uma função em uma variável, passar como parametro, e devolver de outras funções
+		• Imutabilidade - objetos imutáveis
+		• Sem efeitos colaterais - dada uma função com as mesmas entradas, ela sempre irá retornar um mesmo valor
+		♥ A partir disso, podemos chamar funções que podem ter detalhes alterados através de funções anonimas, os lambdas
+		
+	- Pragmática
+		• Kotlin foi pensado para ser simples e eficiente
+		• A ideia não é reinventar a forma que as linguagens trabalham mas sim combinar o melhor das linguagens do mercado em uma só
+		• A partir disso, se torna fácil de aprender e poderosa, resolvendo problemas do dia a dia
+		• Em conjunto, possui uma boa cooperatividade com as ferramentas disponíveis, que oferecem boas soluções de problemas ou padrões da linguagem
+
+	- Concisa
+		• Outro objetivo é garantir que a forma que o código é escrito, represente exatamente a ideia daquele objetivo
+		• Como outras linguagens, Kotlin utiliza de bibliotecas nativas para representar códigos boilerplate, como os getters e setters do Java
+		• Proporciona também, funções abrangentes que recebem uma função como parametro, um lambda para detalhes especificos na função principal, por exemplo, procurar algo, mas através do lambda, você especifica o algo
+		• Com tudo isso a experiencia de escrever e principalmente ler código kotlin, claro, aliado a boas práticas de programação e arquitetura, torna-se algo mais fácil e agradável
+		
+	- Segura
+		• Significa que a linguagem proporciona modos de evitar erro em tempo de execução, aumento as possibilidades de os erros serem resolvidos antes de chegar ao usuário
+		• O principal foco nisso é o NullPointerException. Kotlin, trabalha isso atráves do nullable, e bloqueia códigos que poderiam gerar a exception.
+		
+	- Interoperabilidade
+		• Como Kotlin é executado em JVM, ele permite que qualquer API, framework, código Java possa ser executado junto com Kotlin. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - Capítulo 2 - Básico sobre Kotlin - - -
+
+
+
+
+
+
+
+
+
+
 
